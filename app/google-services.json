@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "667726301877",
+    "project_id": "youtube-calandar-final",
+    "storage_bucket": "youtube-calandar-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667726301877:android:7b4f866590b0d6d652ccfc",
+        "android_client_info": {
+          "package_name": "com.cbahsler.YouTubeCalandar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667726301877-jj03m7t2rogogs8fllkfq4ok7drjs8j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbahsler.YouTubeCalandar",
+            "certificate_hash": "cec7ccf659057abc96ec1214b606785c7894d00a"
+          }
+        },
+        {
+          "client_id": "667726301877-53hupj52qmfurvb9drr9d2vqqqc1ms9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2sGWshM8Y-2qIyWkD7_HSbFtfGRn1qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667726301877-53hupj52qmfurvb9drr9d2vqqqc1ms9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

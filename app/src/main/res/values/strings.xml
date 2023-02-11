@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YouTube Calandar</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="why_login_with_google">Why login with google?</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_user_image">profile user image</string>
+    <string name="user_circle_profile">User circle profile</string>
+    <string name="logout2">Logout</string>
+
+    <!-- Used in Google login Activity -->
+    <!--    <string name="default_web_client_id">-->
+    <!--        667726301877-gollk1nq00tohdjbpkacdjeds35jot18.apps.googleusercontent.com</string>-->
+
+
+</resources>
